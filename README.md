@@ -2,7 +2,8 @@ https://www.jianshu.com/p/42e11515c10f
 
 How to build a webpack project:
 0. Install NodeJS as a webpack runtime env
-1. run "npm install -g webpack" or "npm install --save-dev webpack" to install webpack
+1. run "npm install -g webpack" or "npm install --save-dev webpack"  
+!!!!npm install --save webpack, npm install webpack-cli -D to install webpack
 2. "npm init" to create package.json
 3. Install the necessary modules (loader, plugin etc.):
    - React, React-DOM: "npm install --save react react-dom"
